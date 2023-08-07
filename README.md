@@ -1,6 +1,6 @@
 # My Project
 
-This is a simple project that demonstrates how to run the `hello.py` script.
+This is a simple project that demonstrates how to run the `github_source_code.py` script.
 
 ## Getting Started
 
@@ -13,4 +13,4 @@ Follow these steps to execute the source code on your local system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/jagadabhibalaji/balu.git
