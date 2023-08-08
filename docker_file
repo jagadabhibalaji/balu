@@ -8,10 +8,10 @@ WORKDIR /app
 RUN pip install numpy matplotlib
 
 # Clone your source code from Git
-RUN git clone https://github.com/yourusername/MyProject.git
+RUN git clone https://github.com/jagadabhibalaji/balu.git
 
 # Set the working directory to your project directory
-WORKDIR /app/MyProject
+WORKDIR /app/balu
 
 # Run your script (replace with the actual command)
-CMD ["python", "main.py"]
+CMD ["python", "github_source_code.py"]
